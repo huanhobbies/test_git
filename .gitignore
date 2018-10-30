@@ -1,2 +1,9 @@
-# ignore all .txt files
-*.txt
+#blacklist files/folders in directory
+/*
+
+#include files
+!.gitignore
+!.cpp
+!.hpp
+
+
