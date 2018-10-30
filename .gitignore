@@ -1,5 +1,5 @@
 #blacklist files/folders in directory
-/*
+*
 
 #include files
 !.gitignore
