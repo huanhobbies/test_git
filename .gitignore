@@ -4,8 +4,8 @@
 #whitelist files ending in:
 !.gitignore
 !*.cpp
-!*.hpp
-!*.txt
+#!*.hpp
+#!*.txt
 
 #whitelist files in folder ending in .cpp or .hpp
 !folder/
